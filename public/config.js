@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Trade Crypto | Stocks | Swap | Cross Chain Using | Hidden Orders | Trade with Confidence | MuffinSwap For Every One",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Swap,Leaderboard,Rewards,Points",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Swap,Leaderboard,Points",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
